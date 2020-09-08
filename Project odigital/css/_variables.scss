@@ -5,3 +5,21 @@ $Bgcolor:#f2eff2;
 $Textcolor:#2f312f;
 $Navwhite:#2f312f;
 $Navgrey:#151615;
+
+@font-face{
+     font-family: 'mirador';
+     src:url('../fonts/Mirador-Bold.woff');
+     font-weight:900;
+}
+
+@font-face{
+     font-family: 'codec';
+     src:url('../fonts/Codec-Cold-ExtraBold.woff');
+     font-weight: 900;
+}
+
+@font-face {
+     font-family: 'montserrat';
+     src: url('../fonts/Montserrat-Regular.woff');
+     font-weight: 600;
+}
